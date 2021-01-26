@@ -1,0 +1,326 @@
+
+@media only screen and (max-width: 768px){
+  .wrapper{
+    width: 450px;
+
+  }
+  .header{
+    height: 568px;
+
+  }
+  .header-logo{
+    padding-left: 16px;
+    padding-top: 20px;
+    padding-bottom: 36px;
+    color: white;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 27px;
+    text-transform: uppercase;
+  }
+  .nav-bar{
+    height: 130px;
+
+
+
+  }
+  .nav-btn{
+    display: block;
+  }
+  .address{
+    display: none;
+  }
+  #address-logo{
+    display: none;
+  }
+  .btn-call{
+  display: none;
+  
+  }
+  #phonenum{
+
+   display: none;
+    }
+    #phone-logo{
+  
+      display: none;
+      }
+      .nav{
+        display: none;
+      }
+      .nav-item{
+       display: none;
+    
+      }
+
+
+
+
+  .top-menu{
+    height:140px ;
+    
+    width: 100%;
+    float: none;
+
+  }
+  .h1{
+    
+    font-size: 36px;
+    margin-left: 16px;
+    margin-right: 16px;
+    line-height: 30.96px;
+    width: 288px;
+    height: 66px;
+    }
+    .h2{
+      font-size: 14px;
+      line-height: 17px;
+      margin-left: 16px;
+      margin-right: 17px;
+      margin-top: 10px;
+      
+    }
+    
+
+  .leftSide{
+    width: 100%;
+    height: 180px;
+    float: none;
+
+  }
+  .timer{
+  
+    margin-top: 26px;
+    margin-left: 42px;
+    
+  }
+
+  .time-section {
+    
+  
+  width: 288px;
+  height: 80px;
+  
+  margin-top: -105px;
+  
+  
+  }
+  #timer_text{
+    
+  font-size: 16px;
+  line-height: 18px;
+  
+  margin-left:16px;
+  margin-top: -46px;
+  }
+
+
+  .btn-zapis{
+    display: none;
+     }
+     .btn-zapis_mobile{
+       display: block;
+       margin-left: 16px;
+       margin-right: 124px;
+       margin-top:40px;
+     
+     }
+     #btn_zapis_mobile{
+      display: block;
+     
+     }
+     .btn-call_mobile{
+       display: block;
+     }
+ 
+ 
+ 
+ 
+ 
+ 
+
+  .description{
+    height: 500px;
+
+
+
+  }
+  #description_title{
+    font-size: 32px;
+    line-height: 37px;
+    margin-left: 16px;
+  
+  }
+  .description-text{
+    font-size: 12px;
+    line-height: 15px;
+    margin-left: 16px;
+  }
+  
+
+  .slider{
+    height: 450px;
+
+  }
+  .footer{
+   
+  height: 355px;
+
+
+
+  }
+  #footer-title{
+    width: 288px;
+    height: 58px;
+    margin-left: 16px;
+    margin-top: 10px;
+    padding-top: 10px;
+    font-size: 26px;
+    line-height: 30px;
+    
+    
+    
+    
+  }
+  #footer-text{
+    
+    font-size: 12px;
+line-height: 15px;
+    /* identical to box height */
+    margin-left: 16px;
+    margin-top: 10px;
+    
+    
+  
+  }
+  .footer-form{
+    
+    margin-top: 20px;
+    margin-left: 16px;
+  
+  }
+  #input_footer{
+
+  }
+  #btn_footer{
+
+  }
+
+}
+@media only screen and (max-width: 480px){
+  .wrapper{
+    width: 320px;
+  }
+  .header{
+    height: 140px;
+  }
+  
+
+  
+  
+
+  #address-logo{
+    width: 18px;
+    height: 18px;
+    left: 844px;
+    top: 41px;
+  }
+  .btn-call{
+    position: absolute;
+    background: linear-gradient(84.21deg, #2192BF 0%, #1AD2D6 100%);
+    box-shadow: 0px 7px 24px rgba(104, 197, 234, 0.25);
+    border-radius: 10px;
+    width: 216px;
+    height: 46px;
+    top: 11px;
+    left: 965px;
+    display: flex;
+    flex-direction: row;
+  
+  }
+  .btn-call:hover{
+    cursor: pointer;
+  }
+  #phonenum{
+  
+    width: 156px;
+    height: 22px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    
+    margin-top: 12px;
+    margin-right: 16px;
+    margin-bottom: 12px;
+    }
+    #phone-logo{
+    
+      width: 18px;
+      height: 18px;
+      margin-top: 15.5px;
+      margin-bottom: 15.5px;
+      margin-left: 17.5px;
+      margin-right: 11.5px;
+      }
+    .nav{
+      position: relative;
+      display: flex;
+      flex-direction: row;
+    
+      font-size: 16px;
+      line-height: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+   
+      left: 568px;
+      top: -98px;
+    
+      
+      padding-top: 10px;
+    }
+    .nav-item{
+      padding-left: 40px;
+      text-decoration: none;
+    font-family: Montserrat;
+      
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    height: 20px;
+    color: #FFFFFF;
+  
+    }
+    .nav-item:hover{
+      cursor: pointer;
+    }
+  .nav-bar{
+    
+  }
+  .nav-btn{
+    
+  }
+  .top-menu{
+    
+
+  }
+  .leftSide{
+    
+
+  }
+  .description{
+
+
+  }
+  .slider{
+    
+  }
+  .footer{
+
+  }
+}
